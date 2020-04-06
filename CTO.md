@@ -3,7 +3,7 @@
 Voici ma vision décrite à l'aide d'une liste de réflexions que j'ai eues tout au long de ma carrière sur le rôle d'un CTO.
 Elle est donc la conséquence d'un retour sur expérience de ce qui fait un bon CTO c'est à dire qui pousse une organisation plus loin, selon moi.
 
-## Technique
+## Technique :
 
 * être capable de construire un projet de A à Z, scalable, élastique, cost effective, secure, devops, CI/CD
 * doit avoir un background fullstack
@@ -18,7 +18,7 @@ Elle est donc la conséquence d'un retour sur expérience de ce qui fait un bon 
 * savoir quand coder et quand ne pas le faire
 * doit être garant de la maîtrise technique du produit par son équipe
 
-## Produit
+## Produit :
 
 * transformer les dev en ingénieurs produit (product engineers) en créant un env pour les rendre engagés, responsables et owners de leur produit/de leur travail
 * aider l'équipe à être concentrée sur le besoin des utilisateur
@@ -31,14 +31,14 @@ Elle est donc la conséquence d'un retour sur expérience de ce qui fait un bon 
 * voir au-delà du code (ex: UX, design interface fondamentaux au succès d'un produit)
 * doit maîtriser le produit d'un point de vue fonctionnel (à quoi il sert, à qui il répond, comment, pourquoi que fait son utilisateur avec)
 
-## Business
+## Business :
 
 * être un entrepreneur (expérience de startup un plus)
 * MRR, LTV, CAC, ... comprendre les métriques qui drivent le business et savoir prendre des décisions pour les améliorer
 * comprendre son marché, les concurrent, pricing, model de revenue, les enjeux, time to market, etc..
 * S'impliquer dans la stratégie business
 
-## Équipe / Organisation
+## Équipe / Organisation :
 
 * favoriser les décisions collégiales, favoriser la cohésion et la réussite de l'équipe
 * recruter pour et avec l'équipe, favoriser le bien-être de l'équipe
