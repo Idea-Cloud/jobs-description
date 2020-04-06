@@ -36,7 +36,7 @@ Elle est donc la conséquence d'un retour sur expérience de ce qui fait un bon 
 * être un entrepreneur (expérience de startup un plus)
 * MRR, LTV, CAC, ... comprendre les métriques qui drivent le business et savoir prendre des décisions pour les améliorer
 * comprendre son marché, les concurrent, pricing, model de revenue, les enjeux, time to market, etc..
-* S'impliquer dans la stratégie business
+* s'impliquer dans la stratégie business
 
 ## Équipe / Organisation :
 
@@ -48,13 +48,13 @@ Elle est donc la conséquence d'un retour sur expérience de ce qui fait un bon 
 * auto-responsabiliser les équipes sur la gestion du planning présence/absence (congés, etc)
 * être à l'écoute (de tous, et non pas seulement des parties prenantes techniques)
 * aider aux avant-ventes
-* Favoriser une organisation flat
-* Savoir mettre en place une organisation produit pertinente aux besoins de l'organisation et du produit (eg. Feature teams, impact teams etc.)
+* favoriser une organisation flat
+* savoir mettre en place une organisation produit pertinente aux besoins de l'organisation et du produit (eg. Feature teams, impact teams etc.)
 
 ## Agilité :
 
 * être capable de mettre en place des méthodes de développement agiles et les faire challenger régulièrement par les équipes
-* Développer les valeurs de l'agilité au cœur du travail de chacun avec l'aide de scrum masters / coach agiles ou autres
+* développer les valeurs de l'agilité au cœur du travail de chacun avec l'aide de scrum masters / coach agiles ou autres
 * favoriser une réflexion centrée utilisateur
-* Favoriser l'épanouissement de chacun dans son travail au quotidien (écouter les attentes professionnelles, former, pourquoi pas mettre en place des tracks d'innovation etc.)
-* Favoriser le droit à l'erreur, l'esprit de test et d'apprentissage sur les erreurs
+* favoriser l'épanouissement de chacun dans son travail au quotidien (écouter les attentes professionnelles, former, pourquoi pas mettre en place des tracks d'innovation etc.)
+* favoriser le droit à l'erreur, l'esprit de test et d'apprentissage sur les erreurs
