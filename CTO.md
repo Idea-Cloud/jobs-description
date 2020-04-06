@@ -45,7 +45,7 @@ Elle est donc la conséquence d'un retour sur expérience de ce qui fait un bon 
 * mettre en place une culture où on célèbre l'atteinte d'objectifs plutôt que de milestones ou release en prod
 * savoir mettre en place une grille salariale adaptée au marché pour éliminer tout les débats inutiles (éviter les courses aux primes, la compétition contre productive et favoriser la concentration sur la réussite du produit) => cela permet également d'un point de vue financier d'avoir une meilleure visibilité long terme sur l'évolution des charges
 * savoir communiquer l'intérêt et la valeur d'une grille salariale
-* auto-responsabiliser les équipe sur la gestion du planning présence/absence (congés, etc)
+* auto-responsabiliser les équipes sur la gestion du planning présence/absence (congés, etc)
 * être à l'écoute (de tous, et non pas seulement des parties prenantes techniques)
 * aider aux avant-ventes
 * Favoriser une organisation flat
