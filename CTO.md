@@ -1,7 +1,7 @@
 # CTO / Head of Engineering / VP Engineering
 
 Voici ma vision décrite à l'aide d'une liste de réflexions que j'ai eues tout au long de ma carrière sur le rôle d'un CTO.
-Elle est donc la conséquence d'un retour sur expérience de ce qui fait un bon CTO c'est à dire qui pousse une organisation plus loin, selon moi.
+Elle est donc la conséquence d'un retour sur expérience de ce qui fait un bon CTO/VP/Head Of, c'est à dire qui pousse une organisation plus loin, selon moi.
 
 ## Technique :
 
@@ -58,3 +58,7 @@ Elle est donc la conséquence d'un retour sur expérience de ce qui fait un bon 
 * favoriser une réflexion centrée utilisateur
 * favoriser l'épanouissement de chacun dans son travail au quotidien (écouter les attentes professionnelles, former, pourquoi pas mettre en place des tracks d'innovation etc.)
 * favoriser le droit à l'erreur, l'esprit de test et d'apprentissage sur les erreurs
+
+## License :
+Copyright (C) 2020 - Gamaliel SICK, IDEACLOUD.
+
