@@ -2,12 +2,12 @@
 
 * Manage, mentor and lead a growing team of software engineers
 * Help the teams :
- * handle the technical evolutions on the product, coordinating with the product manager and iteratively evolve the roadmap
- * define and decide how to achieve product and technological vision and objectives
- * grow as professionals by pairing whenever needed on projects  so they can manage according to their capabilities and grow
- * continuously improve product and processes.
- * Improve development standards
- * find pragmatic solutions, reach the right tradeoffs and reduce complexity to help them deliver and increase leverage for the organizati
+  * handle the technical evolutions on the product, coordinating with the product manager and iteratively evolve the roadmap
+  * define and decide how to achieve product and technological vision and objectives
+  * grow as professionals by pairing whenever needed on projects  so they can manage according to their capabilities and grow
+  * continuously improve product and processes.
+  * Improve development standards
+  * find pragmatic solutions, reach the right tradeoffs and reduce complexity to help them deliver and increase leverage for the organizati
 * Guide architectural decisions and help refine processes to help the product grow at the right pace and in the right direction
 * Challenge and Ensure code quality, scalability and robustness
 * Work closely with the Product and User Experience Organisation and embrace lean and agile product development practices and data-driven decision making.
