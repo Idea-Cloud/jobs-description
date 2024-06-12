@@ -3,10 +3,11 @@
 MOTO: You build it, You run it !
 
 * Fort positionnement produit en étant à l'aise pour travailler sur `toutes` les parties / technos du produit
-* Collaboration active dans l'équipe et en dehors
+* Collaboration active dans l'équipe et en dehors an sachant vulgariser et expliquer
 * `Capable de travailler en binome toute la journée` car tu en comprends l'importance, tu aimes le pair programming
 * (tu n'as jamais travaillé en pair mais tu souhaites le faire tu es le bienvenu)
 * Aime les solutions simples et éprouvées
+* Concevoir et Développer des applications critiques avec des shémas de donnée complexes
 
 
 Dans une équipe de 6/8 personnes, autonome dans le design, le build et le run,
@@ -43,22 +44,7 @@ La qualité du produit et donc celle du code est une de nos priorités, vous adh
 
 
 
-Langage de développement :
-Outils d’infrastructure as Code :
-Provider Cloud : (AWS, GCP, Azure…)
-Méthodes Agiles :
-
-
-     Savoir vulgariser, expliquer et encadrer les développeurs juniors. 
-
-
-
-
-Concevoir et Développer des applications critiques,
-Etre proactif dans les propositions d’évolutions techniques pour maîtriser la dette technique des produits,
-
-
-
-vulgariser la tech pour communiquer avec toute personne
-
-
+* Langage de développement :
+* Outils d’infrastructure as Code :
+* Provider Cloud : (AWS, GCP, Azure…)
+* Méthodes Agiles :
