@@ -23,7 +23,7 @@
 
 ### La qualité du produit et donc celle du code est une de nos priorités, vous adhérez au bonnes pratiques de développement :
 * Intelligence collective et binomage
-* Méthode Agile (SCRUM) at amélioration continue du code, des process, des pratiques
+* Connaissance de framework Agile et volonté d'amélioration continue du code, des process, des pratiques
 * Pair Programming / Mob programming / faciliter la coopération et l'entraide
 * Peer Review (avec au besoin une Code Review)
 * Automatisation des tests unitaires, d'intégrations, E2E
