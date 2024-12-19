@@ -60,5 +60,5 @@ Elle est donc la conséquence d'un retour sur expérience de ce qui fait un bon 
 * favoriser le droit à l'erreur, l'esprit de test et d'apprentissage sur les erreurs
 
 ## License :
-Copyright (C) 2020 - Gamaliel SICK, IDEACLOUD.
+Copyright (C) 2024 - Gamaliel SICK, IDEACLOUD.
 

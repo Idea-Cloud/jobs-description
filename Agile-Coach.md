@@ -60,3 +60,6 @@ Ceci étant dit, ces points sont un objectif que nous devons avoir ensemble et v
 
 Type de contrat : nous sommes ouverts
 contact:
+
+## License :
+Copyright (C) 2024 - Gamaliel SICK, IDEACLOUD.

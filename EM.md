@@ -37,3 +37,6 @@
 * Support individuals in their career development and personal growth
 * Create a healthy culture of collaboration and inclusion, lead by example and help people fulfil their potential
 * Focus on learning, applying, and extending best-in-class industry practices to continue to raise the bar on providing developer delight and speed of delivery for the teams
+
+## License :
+Copyright (C) 2024 - Gamaliel SICK, IDEACLOUD.

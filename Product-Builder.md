@@ -65,3 +65,5 @@
 * Organisation : Feature teams, squads, chapters
 * Environnement international / français
 
+## License :
+Copyright (C) 2024 - Gamaliel SICK, IDEACLOUD.
